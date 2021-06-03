@@ -1,0 +1,15 @@
+html, body {
+  height: device-height;
+  overflow: hidden;
+  width: device-width;
+  position: center;
+
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: flexed;
+}
+body {
+  position: center;
+}
