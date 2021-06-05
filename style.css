@@ -4,7 +4,7 @@ html, body {
   width: device-width;
   position: center;
 
-  margin: 10px;
+  margin: 5px;
   padding: 0;
 }
 canvas {
@@ -29,5 +29,5 @@ font-style: normal;
 img {
   width: device-width
   height: auto;
-  object-fit: scale-down;
+  object-fit: contain;
 }
