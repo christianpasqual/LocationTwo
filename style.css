@@ -27,7 +27,7 @@ font-style: normal;
   }
 
 img {
-  width: device-width
+  width: device-width;
   height: auto;
   object-fit: contain;
 }
