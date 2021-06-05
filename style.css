@@ -28,6 +28,6 @@ font-style: normal;
 
 img {
   width: device-width
-  height: 395px;
+  height: auto;
   object-fit: scale-down;
 }
